@@ -1,5 +1,7 @@
 # Currenseed
 
+This was our third and final group project. Our group decided to create an online farmers market in which users could sign up and buy local made items and also create their own Kiosks and sell their products. My role in the group was a part of the front-end team. We were asked not to use Bootstrap and either create our own CSS or use a component library. We chose to use Chakra UI. My main responsibility was to create the home page as well as the Nav and Footer components. We received a mark of 95%. 
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg)
 
 Please visit our completed webpage at:  https://currenseed.herokuapp.com/
